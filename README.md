@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# IBM Applied Data Science Coursera Capstone
 ## Capstone Project for IBM Course: Applied Data Science Capstone
 
 **1st Part - Lab in order to complete final Assignment**: Segmenting and Clustering Neighborhoods in Toronto.  
